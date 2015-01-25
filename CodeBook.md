@@ -3,7 +3,7 @@ Course Project Code Book
 
 The original data is here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The orginal description is here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+SmartphonesOr
+The orginal description is here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The attached R script run_analysis.R cleans up the data by:
 
